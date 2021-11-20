@@ -2,7 +2,7 @@
 
 This is a pathfinding program that creates random maze and findd the shortest path to the destination. The A* algorithm is used to find the shortset path for random maze. When it arrives at the destination of the maze, it makes a new random maze and repeat finding the path to the destination again.  
 
-[Software Demo Video](https://youtu.be/fxchYEmljJs)
+[Software Demo Video](https://youtu.be/ZcunQ7tQjuo)
 
 # Development Environment
 
